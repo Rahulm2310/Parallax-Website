@@ -9,6 +9,7 @@ html {
   color: #666;
 }
 
+
 .pimg1 {
   background: url("image1.jpg");
   min-height: 100%;
@@ -19,6 +20,7 @@ html {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
 
 .pimg2 {
   background: url("image2.jpg");
@@ -31,6 +33,7 @@ html {
   background-attachment: fixed;
 }
 
+
 .pimg3 {
   background: url("image3.jpg");
   min-height: 400px;
@@ -42,15 +45,18 @@ html {
   background-attachment: fixed;
 }
 
+
 .section {
   text-align: center;
   padding: 50px 80px;
 }
 
+
 .section-dark {
   background-color: #282e34;
   color: #ddd;
 }
+
 
 .ptext {
   position: absolute;
@@ -62,11 +68,13 @@ html {
   letter-spacing: 10px;
 }
 
+
 .ptext .border {
   background-color: #111;
   color: white;
   padding: 20px;
 }
+
 
 .ptext .trans {
   background-color: transparent;
